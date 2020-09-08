@@ -15,7 +15,7 @@
   </li>
   <li><h3>Bot</h3>
   <p>A <i>Bot</i> or a <i>Robot</i> is actually powered by AI <i>(artificial intelligence)</i> or most importantly <i>Computers</i> sort of
-      speak.It means that a bot or robot is actually programmed by a real human so that it keeps performing the task under final condition is
+      speak.It means that a bot or robot is actually programmed by a real human so that it keeps performing the task until final condition is
       met or reached.Similarly, if we connect these ideas and technologies,the result we get is an <i>Automated Bot.</i></p>
     </li>
     <li>
