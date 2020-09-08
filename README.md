@@ -29,3 +29,22 @@
           used together to make these tasks come in action.</p>
     </li>
 </ul>
+<h2>Instructions</h2>
+<p>It is really simple to use this script to automate your WhatsApp messages.You just need to have a <b>Desktop/PC/Laptop</b> and Chrome
+    browser installed on it.Follow the steps below to run this script perfectly.</p>
+    <ol>
+      <li>Run automate.py</li>
+      <li>In the terminal window, start entering names of contact you want to send messages</li>
+      <li>When typing names of contact, be sure to type correct name and that contact name should be in your WhatsApp contact list.</li>
+      <li>If a contact isn't in the list, computer will display the error.</li>
+      <li>After typing names, you should type <b>n</b> or <b>no</b> to send messages</li>
+      <li>Scan the <b>QR code</b> and be quick asap because time delay is no more longer than <b>15 seconds</b>.</li>
+      <li>If you failed to scan the <b>QR code</b> within given time, then you should restart the program.</li>
+      <li>Okay, sit back and watch the automation going on the screen.<b>WARNING: </b>Don't put hands on the keyboard.</li>
+      <li>After sending to all the contacts, browser will automatically be closed and you are returned back to the terminal.</li>
+      <li>You should see the names of the contact who has been sent the messages.</li>
+    </ol>
+    <h2>More Coming Soon.</h2>
+    <p>This is not just an end.Stay tuned and follow me for more further latest upcoming and exciting scripts/functions/programs for
+      your daily needs.Thanks</p>
+      <h4>Developed By Syed Shehroz Ali.</h4>
