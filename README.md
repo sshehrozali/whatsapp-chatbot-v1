@@ -7,6 +7,7 @@
     
    <h6>Technologies</h6>
    <img src="https://github.com/ShahrozAliPK/whatsapp-chatbot-v1/blob/master/icons/icon.png" width="30" height="30">
+   <img src="https://github.com/ShahrozAliPK/whatsapp-chatbot-v1/blob/master/icons/icon1.png" width="30" height="30">
 
 <ul>
   <li><h3>Automation</h3>
