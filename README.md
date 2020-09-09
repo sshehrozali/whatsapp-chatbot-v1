@@ -1,4 +1,4 @@
-<h1>WhatsApp Bot</h1>
+<h1>WhatsApp Bot V1</h1>
 <h2>Overview</h2>
 <p>Ever wonder? What if you want to send bulk messages to hundreds of your friends for your upcoming birthday party or any other event..or..
     you are a head staff member of your company and your boss has ordered you to inform all the clerks and employees about tomorrow's meeting
