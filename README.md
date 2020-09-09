@@ -5,8 +5,8 @@
     and you are hitting your head on the wall and asking yourself how to perform these actions in actual? Right? Well, in this way my
     WhatsApp Bot is ready to help you in performing these tasks without actual human interaction.</p>
     
-   <h4>Technologies</h4>
-   <img src="https://github.com/ShahrozAliPK/whatsapp-chatbot-v1/blob/master/icons/icon.png" width="100" height="100">
+   <h6>Technologies</h6>
+   <img src="https://github.com/ShahrozAliPK/whatsapp-chatbot-v1/blob/master/icons/icon.png" width="30" height="30">
 
 <ul>
   <li><h3>Automation</h3>
