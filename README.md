@@ -33,7 +33,7 @@
 <p>It is really simple to use this script to automate your WhatsApp messages.You just need to have a <b>Desktop/PC/Laptop</b> and Chrome
     browser installed on it.Follow the steps below to run this script perfectly.</p>
     <ol>
-      <li>Run automate.py</li>
+      <li>Download .zip file and unzip it.Run.</li>
       <li>In the terminal window, start entering names of contact you want to send messages</li>
       <li>When typing names of contact, be sure to type correct name and that contact name should be in your WhatsApp contact list.</li>
       <li>If a contact isn't in the list, computer will display the error.</li>
