@@ -6,8 +6,10 @@
     WhatsApp Bot is ready to help you in performing these tasks without actual human interaction.</p>
     
    <h6>Technologies</h6>
+   <span>
    <img src="https://github.com/ShahrozAliPK/whatsapp-chatbot-v1/blob/master/icons/icon.png" width="30" height="30">
    <img src="https://github.com/ShahrozAliPK/whatsapp-chatbot-v1/blob/master/icons/icon1.png" width="30" height="30">
+    </span>
 
 <ul>
   <li><h3>Automation</h3>
