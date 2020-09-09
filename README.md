@@ -4,6 +4,9 @@
     you are a head staff member of your company and your boss has ordered you to inform all the clerks and employees about tomorrow's meeting
     and you are hitting your head on the wall and asking yourself how to perform these actions in actual? Right? Well, in this way my
     WhatsApp Bot is ready to help you in performing these tasks without actual human interaction.</p>
+    
+   <h4>Technologies</h4>
+   <img src="https://github.com/ShahrozAliPK/whatsapp-chatbot-v1/blob/master/icons/icon.png" width="100" height="100">
 
 <ul>
   <li><h3>Automation</h3>
