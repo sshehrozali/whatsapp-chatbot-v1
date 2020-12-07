@@ -43,7 +43,7 @@ print("Type n/no if you are ready to send message")
 # List to store contact names
 contact_list = []
 
-# Forever loop
+# Keep prompting until user exits
 while (True):
     
     # Prompt for contact name
