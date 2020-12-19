@@ -46,7 +46,7 @@
       <li>After typing names, you should type <b>n</b> or <b>no</b> to send messages</li>
       <li>Scan the <b>QR code</b> and be quick asap because time delay is no more longer than <b>15 seconds</b>.</li>
       <li>If you failed to scan the <b>QR code</b> within given time, then you should restart the program.</li>
-      <li>Okay, sit back and watch the automation going on the screen.<b>WARNING: </b>Don't put hands on the keyboard.</li>
+      <li>Okay, sit back and watch the automation going on the screen.<b>WARNING: </b><i>Don't put hands on the keyboard.</i></li>
       <li>After sending to all the contacts, browser will automatically be closed and you are returned back to the terminal.</li>
       <li>You should see the names of the contact who has been sent the messages.</li>
     </ol>
